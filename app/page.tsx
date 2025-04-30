@@ -292,17 +292,17 @@ export default function Home() {
         <div id="team" className="grid grid-cols-2 md:grid-cols-4 gap-6 font-bold">
           <TeamMember
             name="Maya"
-            imageSrc="/team/maya.png"
+            imageSrc="/team/Maya.png"
             instagramLink="https://instagram.com/mayaznsywa"
           />
           <TeamMember
             name="Maisi"
-            imageSrc="/team/maisi.png"
+            imageSrc="/team/Maisi.png"
             instagramLink="https://instagram.com/maisiii_"
           />
           <TeamMember
             name="Kate"
-            imageSrc="/team/kate.png"
+            imageSrc="/team/Kate.png"
             instagramLink="https://instagram.com/chocomoonkate"
           />
           <TeamMember
